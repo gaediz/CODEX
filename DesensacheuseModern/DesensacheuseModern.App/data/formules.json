@@ -1,0 +1,72 @@
+{
+  "formules": [
+    {
+      "id": "12345678",
+      "orderOf": "OF12345678",
+      "formulaNumber": "F2024-001",
+      "color": "Bleu Nuit",
+      "targetMode": "Desensacheuse",
+      "products": [
+        {
+          "name": "Base PVC",
+          "materialCode": "PVC-001",
+          "scanCode": "PVC001",
+          "recipeQuantityKg": 120.5,
+          "recipeBagCount": 8,
+          "recipeComplementKg": 1.2,
+          "lot1": "LOT2024A",
+          "lot2": "LOT2024A-2"
+        },
+        {
+          "name": "Stabilisateur",
+          "materialCode": "STB-010",
+          "scanCode": "STB010",
+          "recipeQuantityKg": 12.3,
+          "recipeBagCount": 1,
+          "recipeComplementKg": 0.3,
+          "lot1": "LOTSTB01",
+          "lot2": ""
+        },
+        {
+          "name": "Pigment Rouge",
+          "materialCode": "PIG-RED",
+          "scanCode": "PIGRED",
+          "recipeQuantityKg": 3.5,
+          "recipeBagCount": 1,
+          "recipeComplementKg": 0.1,
+          "lot1": "PIG2024R",
+          "lot2": ""
+        }
+      ]
+    },
+    {
+      "id": "87654321",
+      "orderOf": "OF87654321",
+      "formulaNumber": "F2024-002",
+      "color": "Noir Mat",
+      "targetMode": "Palette",
+      "products": [
+        {
+          "name": "Base Polyoléfine",
+          "materialCode": "POL-200",
+          "scanCode": "POL200",
+          "recipeQuantityKg": 98.0,
+          "recipeBagCount": 7,
+          "recipeComplementKg": 0.8,
+          "lot1": "POL2024B",
+          "lot2": "POL2024B-1"
+        },
+        {
+          "name": "Additif UV",
+          "materialCode": "ADD-UV",
+          "scanCode": "ADDUV",
+          "recipeQuantityKg": 6.4,
+          "recipeBagCount": 1,
+          "recipeComplementKg": 0.0,
+          "lot1": "UV2024",
+          "lot2": ""
+        }
+      ]
+    }
+  ]
+}
